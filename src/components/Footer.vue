@@ -1,11 +1,11 @@
 <template>
   <div class="footer-container pb-3">
-    <div class="footer-content col-md-12">
-      <div class="first-container col-md-2">
+    <div class="footer-content col-md-12 col-sm-12 col-xs-12">
+      <div class="first-container col-md-2 col-sm-2 col-xs-2">
         <span class="nl-item">NL</span> |
         <span class="en-item"> EN </span>
       </div>
-      <div class="other-footer-links col-md-8">
+      <div class="other-footer-links col-md-8 col-sm-8 col-xs-8">
         <span class="over-abn-amro">Over ABN AMRO</span>|
         <span class="togieskert">Togeankinshdwt</span> |
         <span class="Durxvasni">Zurendsldnwef</span>|
@@ -13,7 +13,7 @@
         <span class="privacy-cookies">Privacy & Cookies</span>|
         <span class="declaimer">Declaimer</span>
       </div>
-      <div class="footer-bank-link col-md-2">
+      <div class="footer-bank-link col-md-2 col-sm-2 col-xs-2">
         <span class="footer-abn-amro">&copy; ABN AMRO Bank N.V</span>
       </div>
     </div>

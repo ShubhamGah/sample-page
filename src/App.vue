@@ -32,4 +32,7 @@ export default {
   color: #2c3e50;
   /* margin-top: 60px; */
 }
+.title-heading {
+  font-family: "Gill Sans", sans-serif;
+}
 </style>

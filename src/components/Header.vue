@@ -1,8 +1,8 @@
 <template>
   <div class="header-main-container">
-    <div class="header-navbar-items">
+    <div class="header-navbar-items col-md-12 col-sm-12 col-xs-12">
       <b-navbar toggleable="lg">
-        <div class="abn-amro-logo-container col-md-4">
+        <div class="abn-amro-logo-container col-md-4 col-sm-4 col-xs-4">
           <img
             src="../assets/abn-amrro.png"
             alt=""
@@ -83,9 +83,9 @@ a.nav-link {
 .user-login-container {
   display: contents;
 }
-.navbar-collapse-container {
+/* .navbar-collapse-container {
   padding-left: 120px;
-}
+} */
 .person-icon {
   padding-left: 6px;
 }
